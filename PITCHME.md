@@ -1,9 +1,10 @@
-a
+```python
+def function():
+	pass
+```
 
 ---
 
-b
-
-+++
-
-c
+| satu | dua |
+|---|---|
+| tiga | empat |
